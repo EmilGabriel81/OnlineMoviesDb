@@ -20,4 +20,6 @@ Source Code available on the Master branch
 
 ![Screen04](https://user-images.githubusercontent.com/72876989/131645411-79225858-a3c8-4852-b409-64730b919f62.jpg)
 
+## Have some questions or want to give a feedback? You can send me an email at emilgabriel@gmail.com
+
 
